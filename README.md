@@ -1,2 +1,2 @@
 # DicksnoLicks
-chat to meet local gay men 
+Adult dating app built with Firebase
